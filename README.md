@@ -2,6 +2,9 @@
 
 Content Creator Bot is a Telegram bot designed to assist content creators in tracking their growth, providing dynamic content creation tips, and engaging them in a 21-day challenge to improve their reach and impact. The bot leverages APIs, machine learning, and automation to offer personalized guidance and performance tracking.
 
+![image](https://github.com/user-attachments/assets/c70d3c4b-3bce-400d-a882-876ceec7bc11)
+
+
 ---
 
 ## Features
